@@ -42,3 +42,8 @@ sidebar {
     margin-right: 5px;
     font-size: 20px !important;
 }
+
+a {
+    text-decoration: none;
+    color: #555;
+}

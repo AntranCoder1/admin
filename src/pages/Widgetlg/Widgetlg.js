@@ -4,7 +4,7 @@ import './Widgetlg.css';
 const Widgetlg = () => {
 
     const Button = ({ type }) => {
-        return <button className={"widgetlgButton" + type}>{type}</button>
+        return <button className={"widgetlgButton " + type}>{type}</button>
     }
 
     return (

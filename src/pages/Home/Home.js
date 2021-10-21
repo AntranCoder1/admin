@@ -1,7 +1,7 @@
 import React from 'react';
 import Chart from '../chart/Chart';
 import FeaturedInfo from '../featuredInfo/FeaturedInfo';
-import data from '../../data';
+import { data } from '../../data';
 import './Home.css';
 import WidgetSm from '../widgetSm/WidgetSm';
 import Widgetlg from '../Widgetlg/Widgetlg';

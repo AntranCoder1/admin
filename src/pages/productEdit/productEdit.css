@@ -1,0 +1,22 @@
+.productEdit {
+    flex: 4;
+    padding: 20px;
+}
+
+.productEditContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.productEditAddButton {
+    width: 80px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 5px;
+    background-color: teal;
+    font-weight: 600;
+    color: #fff;
+    font-size: 16px;
+}
